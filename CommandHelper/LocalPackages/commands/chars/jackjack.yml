@@ -1,0 +1,35 @@
+class: jackjack
+costumes:
+- chatcolor: '&2'
+  name: §4Ja§0c§2k 4Ja§0c2k
+  sig: 
+  val:
+  effects:
+- /effect <plr> 5 9999 10 true
+- /effect <plr> 11 9999 11 true
+items:
+- /shot give <plr> greenenergybeam
+permissions:
+  superherocity:
+  - essentials.fly
+  - powers.herotransform
+  - essentials.tppos
+  - powers.cloneself
+  - worldedit.navigation.thru.command
+powers:
+- /effects
+- /items
+- /fly
+- /thru
+- /wallrun on/off
+- /tppos <x> <y> <z>
+- /cloneself
+- /herotransform
+
+speech: Ba Ba!
+trail: [
+  ]
+transformations:
+- demonjackjack
+- metaljackjack
+- firejackjack
