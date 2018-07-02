@@ -1,0 +1,42 @@
+allowedPhrases:
+- 'Mama'
+- 'Goo Goo'
+- 'Ga GA'
+- 'Goo GOo Ga ga'
+- 'Dada!'
+- 'waaaa'
+class: jackjack
+costumes:
+- chatcolor: '&2'
+  name: §4Ja§0c§2k 4Ja§0c2k
+  sig:lmwncK0X3WoQXOnOOrGD2a25nf2qe2KPBITOsTcHgfw6sUNLfsEe8Z4PDpFlS0BIigZzUu6qZvaLL+A2CRt69cffocXybmIjFOwfiSscjTr0rpXReMqt7iYalgGXyhHFWK0sXaDnfW/xlxzRmBB+M6YnOFjmyVlMkT9biKkVFMdvX+YeU/MNOIGt7UMyB2rU8kaby30lOkT/PvKm1ynLAiGk3ZzHHP1T99oBVJi5uVXCQ8s3+JUPwtODn2CIfTmSSOCJWbXE1aBppbmz4c357+7cwT2YBrYwEm6ZvLQjA3ZBDfZMduI5z9FNXJNj0+SuGafJeyfwTCC30dVtH0hD1JX85sfXyR9dMJ2f55AxLs5z95vNyPRrFPFwfvr2HqcrgVSEQ8H5W6w/vD+0f/QpjZFmfri2pjYaGwLMa9xLeVXwCczRgPZzd619/rGJ5wndqnJzUCiuRwG7J6/2r6IjNgbLqdlXICv/+DEQMcWZJj6hgDBCA91n/KJa4lKQEY4MkFrzzZpWDI/wYdGMdHs/C7JAS3qJ364giULTs0/hGgdX4XPIhbBALJgWYcbMHC+OvqZ1HicEIOpVfefdsg7FoSUIeTrMgDrLv6OhTljyhBCZDcV6jW69lth+jkGBUFBqWx81Afs0nZ86a2lDLikPKzqlmLbg5UFZpxaNoAxwslw= 
+  val:eyJ0aW1lc3RhbXAiOjE1MzA1NjMwMDg4MjIsInByb2ZpbGVJZCI6ImViZWI2ZGE3YmM1NzQxMWNhMzVhZjQ4ZjYyODRjZmYwIiwicHJvZmlsZU5hbWUiOiJjb29sX2xpa2VfaWNlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ODZmMTdhMTY4MzljMWU0NDEyZjVmMjYwZDFjOWM2YjhiMmI2ZDI3MDE4YjY3MTYyNWFjMGQzMmJlNmE4YWNhIn19fQ==
+  effects:
+- /effect <plr> 5 9999 10 true
+- /effect <plr> 11 9999 11 true
+items:
+- /shot give <plr> greenenergybeam
+permissions:
+  superherocity:
+  - essentials.fly
+  - powers.herotransform
+  - essentials.tppos
+  - powers.cloneself
+  - worldedit.navigation.thru.command
+powers:
+- /effects
+- /items
+- /fly
+- /thru
+- /wallrun on/off
+- /tppos <x> <y> <z>
+- /cloneself
+- /herotransform
+
+speech: Ba Ba!
+trail: [
+  ]
+transformations:
+- demonjackjack
+- metaljackjack
+- firejackjack
