@@ -16,6 +16,8 @@ costumes:
 - /effect <plr> 11 9999 11 true
 items:
 - /shot give <plr> greenenergybeam
+- /shop give <plr> purpleenergybeam
+- /disguiseplayer <plr> creeper setinvisible
 permissions:
   superherocity:
   - essentials.fly
@@ -23,6 +25,12 @@ permissions:
   - essentials.tppos
   - powers.cloneself
   - worldedit.navigation.thru.command
+  - libsdisguises.disguise
+  - libsdisguises.undisguise
+  - libsdisguises.disguise.player
+  - ch.alias.grow
+  - ch.alias.shrink
+  - ch.alias.normalsize
 powers:
 - /effects
 - /items
@@ -32,6 +40,11 @@ powers:
 - /tppos <x> <y> <z>
 - /cloneself
 - /herotransform
+- /disguise
+- /undisguise
+- /shrink
+- /normalsize
+- /grow
 
 speech: Ba Ba!
 trail: [
