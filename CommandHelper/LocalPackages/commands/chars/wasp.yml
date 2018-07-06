@@ -8,15 +8,23 @@ effects: [
   ]
 items:
 - /disguiseplayer <plr> villager baby
+- /disguiseplayer <plr> creeper setinvisible
+- /shot give <plr> blueenergybeam
+
 maxHearts: 20
 permissions:
   superherocity:
   - -essentials.protect.damage.fall
   - essentials.fly
+  - ch.alias.shrink
+  - ch.alias.normalsize
 powers:
 - /effects
 - /items
 - /fly
+- /shrink
+- /normalsize
+- /grow
 speech: Feel my sting!
 trail: [
   ]
