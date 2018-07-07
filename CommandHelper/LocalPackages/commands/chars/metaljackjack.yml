@@ -1,0 +1,25 @@
+allowedPhrases:
+- 'Mama'
+- 'Goo Goo'
+- 'Ga GA'
+- 'Goo GOo Ga ga'
+- 'Dada!'
+- 'waaaa'
+- 'ching!'
+class: metaljackjack
+- chatcolor: '&7'
+  name: §7Me§8ta§7l J§fa§7ck J§fa§7ck
+  sig: vpE/DV3LnMvW2PqB9wmHzloobtnq3MBMB9eVF41DC+JcOeXpVkVsI2Z1Tyf64Gvt3p/XJYp6DUKdcKlfFowBsF3tpKi8ROd6g2Duydq0ytAakV1YqVG9Y5YT0zHOCfk0UMkCcBixRCvnV3CUrd0xmkNvmKK6LN/foNRFmckBKLXE+3+bzhFfLCiEUPusxUF0X6BhTxm5zbw8yBtkLq0ylKWtJt5aYd/ZIGSzfHNY6N2EOiYEBFQVLm+ox1sngOOyKO8lidURb6DpeeAS8zwQ4ECmv10N3Fr1HlzEmVFtZrPcSFcFuHanbyuJM1bIVyZUkwxANxmJHjKfRD8a9B5UdpTbljzbp4jqnrXCSEI8bYHDQabA6fUY+dN5qjA12KYbZvGjUasfQHkNJBjUl6+mpygrsKnBipKGwWb6x77XMhoYedXQbVoKGvf7jQvPlylvL6nvoCsYt23RtZebxGqt9FLqYYg++hg2rfCRbNZNlmeiRxqA9wU4hywLhpNG202bChvCoQUOJP8HItnuuteJNi3zhvBDNK/pSh8tusJeYaHmQrhU9k7gpeHo+jcAQZ0/DQ48ERiUSGqf2iDGxZtbo0Dsw4W2cc4pkfD41y6l4tH1bBt+ReyChCQeoSvo/EOSjJb6tU/Xy4ECk7U15r4ITV9ri9pK+n+zsQXTwULrvJk=
+  val: eyJ0aW1lc3RhbXAiOjE1MzA5NzY0NDQ2NzIsInByb2ZpbGVJZCI6ImViZWI2ZGE3YmM1NzQxMWNhMzVhZjQ4ZjYyODRjZmYwIiwicHJvZmlsZU5hbWUiOiJjb29sX2xpa2VfaWNlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWZlYTM5OTJkMjNmZTU3ZWQ3MWU3ODYzMjc4NWI5ZGYyNTc5NGRlYThkNDM4NjQwMjk3NzMwMzVlMGMyZGQ2In19fQ==
+permissions:
+  superherocity:
+  - powers.herotransform
+powers:
+- /herotransform
+speech: Boom Boom!
+trail: [
+  ]
+transformations:
+- jackjack
+- firejackjack
+- demonjackjack
