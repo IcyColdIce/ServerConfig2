@@ -24,7 +24,6 @@ powers:
 - /fly
 - /shrink
 - /normalsize
-- /grow
 speech: Feel my sting!
 trail: [
   ]
