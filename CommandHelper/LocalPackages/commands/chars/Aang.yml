@@ -1,0 +1,39 @@
+class: aang
+costumes:
+- chatcolor: '&5'
+  name: §7A§ba§2n§4g
+  sig: 
+  val:
+effects:
+- /effect <plr> 5 9999 5 true
+items:
+- /shot give <plr> brownenergybeam
+- /shot give <plr> whiteenergybeam
+- /shot give <plr> blueenergybeam
+- /shot give <plr> redenergybeam
+- /mgive <plr> tsunamiwand
+jump: 2
+maxHearts: 30
+permissions:
+  superherocity:
+  - powers.fireballpunch
+  - ch.alias.wind
+  - ch.alias.earth
+  - essentials.speed.fly
+  - essentials.fly
+  - powers.depower
+powers:
+- /effects
+- /items
+- /jump 0-2
+- /run 0-3
+- /fly
+- /earth
+- /wind <player>
+- /depower
+- /fireballpunch on/off
+- You can throw a fireball with your bare hand
+run: 3
+speech: I am Avatar Aang!
+trail: [
+  ]
